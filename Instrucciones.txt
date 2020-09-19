@@ -1,0 +1,4 @@
+﻿Instalar sql server 
+ejecutar comando sql escrito en el archivo "Gestion Interna/DDBB.sql" que generara automaticamente la base de datos requerida por el programa
+Modificar el archivo de texto "Gestion Interna/in/debug/Conexion.txt", en la primera linea escribir el nombre del servidor, en la segunda el nombre de la base de datos (base de datos deberia ser "Gestion_Interna")
+Disfrutar!

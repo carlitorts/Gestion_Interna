@@ -1,0 +1,10 @@
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Release\Gestion Interna.exe.config
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Release\Gestion Interna.exe
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Release\Gestion Interna.pdb
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion Interna.csprojAssemblyReference.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion_Interna.Formulario_Subida.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion_Interna.Properties.Resources.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion Interna.csproj.GenerateResource.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion Interna.csproj.CoreCompileInputs.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion Interna.exe
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Release\Gestion Interna.pdb

@@ -1,0 +1,13 @@
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Debug\Gestion Interna.exe.config
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Debug\Gestion Interna.exe
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\bin\Debug\Gestion Interna.pdb
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion Interna.csprojAssemblyReference.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion_Interna.Properties.Resources.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion Interna.csproj.GenerateResource.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion Interna.csproj.CoreCompileInputs.cache
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion Interna.exe
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion Interna.pdb
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion_Interna.Formulario_Subida.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion_Interna.Form2.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion_Interna.Form3.resources
+C:\Users\litor_6v2xux0\source\repos\Gestion Interna\Gestion Interna\obj\Debug\Gestion_Interna.Form4.resources
